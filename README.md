@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Charles+Bellarmin;☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+React+Developer;⚙️+Microservices+%7C+ActiveMQ+%7C+Camunda;💡+Building+Scalable+Applications;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Charles+Bellarmin;Java+Full+Stack+Developer;Spring+Boot+%7C+React;Microservices+%7C+ActiveMQ+%7C+Camunda;Building+Scalable+Applications+🚀" />
 </p>
 
 <h1 align="center">🚀 Charles Bellarmin</h1>
@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charles050900&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles050900&layout=compact)
 
 ## 🤝 Connect With Me
 
