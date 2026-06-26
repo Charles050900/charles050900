@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Charles+Bellarmin;Java+Full+Stack+Developer;Spring+Boot+%7C+React;Microservices+%7C+ActiveMQ+%7C+Camunda;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&center=true&vCenter=true&width=800&lines=Hi+I'm+Charles+Bellarmin;Java+Full+Stack+Developer;Spring+Boot+%7C+React;Microservices+%7C+ActiveMQ+%7C+Camunda;Building+Scalable+Applications" />
 </p>
 
 <h1 align="center">🚀 Charles Bellarmin</h1>
